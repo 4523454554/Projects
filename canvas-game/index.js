@@ -271,3 +271,4 @@ startGameBtn.addEventListener('click', () => {
     spawnEnemies()
     modalEl.style.display = 'none'
 })
+
